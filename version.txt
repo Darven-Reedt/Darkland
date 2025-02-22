@@ -1,1 +1,6 @@
-0.0.01
+22.02.2025 / Version 0.0.1 
+
+  Versions 0.0.x only serve one purpose: 
+  to familiarize yourself with the different tools 
+  and the interaction between them (selecting the most compatible file type possible).
+  .glb/.gtlf seem to be the most suitable.
